@@ -382,8 +382,8 @@ section {
   width: 80%;
 }
 .servicesContainer img{
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
 }
 
 
@@ -947,4 +947,11 @@ h3 + span {
 }
 .mapAustin:hover{
   filter: brightness(105%);
+}
+
+
+.clickImage:hover{
+  filter: brightness(90%);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 10px 0px;
+  
 }
